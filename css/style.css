@@ -156,3 +156,20 @@
   margin-left:8%;
 
 }
+
+.endPara {
+  background-color: #DCDCDC;
+  color: black;
+  text-align: left;
+  font-family: sans-serif;
+  font-size: 13px;
+  float: none;
+}
+
+.Foot {
+  display: block;
+  font-size: 18px;
+  background-color: black;
+  color: white;
+  font-family: sans-serif;
+}
