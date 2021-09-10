@@ -21,6 +21,14 @@ This is a clone of Apple website(https://www.apple.com/).
 <p> </p>
 <footer> </footer>
 
+#EACH PIECE HAS AN INDIVIDUAL TASK
+
+1- Stylesheet contains the css file which is used for styling this page.
+2- Header is responsible for the menu and the navigation between main pages of the website
+3- anchor tag contains the links to other webpages.
+4- Paragraph contains terms and conditions and some other information.
+5- Footer contains developer name, email id.
+
 #IMAGES
 
 images that are used in the webpage have been taken from the internet. Their links are given below:
@@ -29,3 +37,4 @@ images that are used in the webpage have been taken from the internet. Their lin
 2. image 1 - https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-12-og-202104?wid=1200&hei=630&fmt=jpeg&qlt=95&.v=1617339367000
 3. image 2 - https://www.apple.com/newsroom/images/product/iphone/standard/Apple_announce-iphone12pro_10132020_big.jpg.large.jpg
 4. image 3 - https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-pro-og-202104?wid=1200&hei=630&fmt=jpeg&qlt=95&.v=1618674417000. 
+
