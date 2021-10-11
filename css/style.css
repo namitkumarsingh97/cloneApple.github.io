@@ -30,7 +30,9 @@ body {
   font-size: 17px;
 }
 
-
+a {
+  text-decoration: none;
+}
 
 .para {
   text-align: center;
