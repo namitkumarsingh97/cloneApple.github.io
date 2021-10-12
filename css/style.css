@@ -20,6 +20,11 @@ body {
   font-size: 15px;
 }
 
+.navigation-bar a:hover {
+  color: gray;
+  font-size: 30px;
+}
+
 /* Style the search box inside the navigation bar */
 .navigation-bar input[type=text] {
   float: right;
@@ -171,12 +176,4 @@ a {
   font-family: sans-serif;
   font-size: 13px;
   float: none;
-}
-
-.Foot {
-  display: block;
-  font-size: 18px;
-  background-color: black;
-  color: white;
-  font-family: sans-serif;
 }
